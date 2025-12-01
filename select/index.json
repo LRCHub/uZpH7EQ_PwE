@@ -1,0 +1,192 @@
+{
+  "version": 1,
+  "base_track": "Bones",
+  "base_artist": "Imagine Dragons",
+  "createdAt": "2025-12-01T04:43:20.116538Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Bones in the Ocean",
+      "artist": "The Longest Johns",
+      "has_synced": true,
+      "path": "select/01_Bones_in_the_Ocean_The_Longest_Johns.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Bones",
+      "artist": "Imagine Dragons",
+      "has_synced": true,
+      "path": "select/02_Bones_Imagine_Dragons.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "In My Bones",
+      "artist": "Ray Dalton",
+      "has_synced": true,
+      "path": "select/03_In_My_Bones_Ray_Dalton.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Diggin' Up Bones",
+      "artist": "Randy Travis",
+      "has_synced": true,
+      "path": "select/04_Diggin'_Up_Bones_Randy_Travis.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Diggin' Up Bones",
+      "artist": "Randy Travis",
+      "has_synced": true,
+      "path": "select/05_Diggin'_Up_Bones_Randy_Travis.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Diggin' Up Bones (Album Version)",
+      "artist": "Randy Travis",
+      "has_synced": true,
+      "path": "select/06_Diggin'_Up_Bones_(Album_Version)_Randy_Travis.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Out of My Bones",
+      "artist": "Randy Travis",
+      "has_synced": true,
+      "path": "select/07_Out_of_My_Bones_Randy_Travis.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "The Bones",
+      "artist": "Maren Morris",
+      "has_synced": true,
+      "path": "select/08_The_Bones_Maren_Morris.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "The Bones (Dave Audé Remix)",
+      "artist": "Maren Morris feat. Dave Audé",
+      "has_synced": true,
+      "path": "select/09_The_Bones_(Dave_Audé_Remix)_Maren_Morris_feat._Dave_Audé.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "The Bones (Dave Audé Remix)",
+      "artist": "Maren Morris",
+      "has_synced": false,
+      "path": "select/10_The_Bones_(Dave_Audé_Remix)_Maren_Morris.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Bones",
+      "artist": "Radiohead",
+      "has_synced": true,
+      "path": "select/11_Bones_Radiohead.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Bones",
+      "artist": "In Fear and Faith",
+      "has_synced": true,
+      "path": "select/12_Bones_In_Fear_and_Faith.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Elephant Bones",
+      "artist": "Eidola",
+      "has_synced": false,
+      "path": "select/13_Elephant_Bones_Eidola.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Jealous Bones",
+      "artist": "Rolo Tomassi",
+      "has_synced": true,
+      "path": "select/14_Jealous_Bones_Rolo_Tomassi.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Bones (2 Meter)",
+      "artist": "Radiohead",
+      "has_synced": true,
+      "path": "select/15_Bones_(2_Meter)_Radiohead.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Bones - BBC Radio 1 Evening Session",
+      "artist": "Radiohead",
+      "has_synced": true,
+      "path": "select/16_Bones_-_BBC_Radio_1_Evening_Session_Radiohead.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Bones (BBC Radio One Session 14/09/94)",
+      "artist": "Radiohead",
+      "has_synced": true,
+      "path": "select/17_Bones_(BBC_Radio_One_Session_14_09_94)_Radiohead.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Bones (Live At the Forum)",
+      "artist": "Radiohead",
+      "has_synced": true,
+      "path": "select/18_Bones_(Live_At_the_Forum)_Radiohead.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Bones",
+      "artist": "KROY",
+      "has_synced": false,
+      "path": "select/pl_01_Bones_KROY.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "Bones Of Saints",
+      "artist": "KROY",
+      "has_synced": false,
+      "path": "select/pl_02_Bones_Of_Saints_KROY.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "Bones (feat. OneRepublic) - B-Sights Remix",
+      "artist": "KROY",
+      "has_synced": false,
+      "path": "select/pl_03_Bones_(feat._OneRepublic)_-_B-Sights_Remix_KROY.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "Bones",
+      "artist": "KROY",
+      "has_synced": false,
+      "path": "select/pl_04_Bones_KROY.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "The Bones",
+      "artist": "KROY",
+      "has_synced": false,
+      "path": "select/pl_05_The_Bones_KROY.txt"
+    }
+  ]
+}
